@@ -1,11 +1,11 @@
-![Results summary component]()
+![Results summary component](https://github.com/NathanRayM/Results-summary-component-Frontend-Mentor/blob/main/Results%20Summery%20SS.png)
 
 <h1 align="center">Results summary component</h1>
 
 <div align="center">
 
-[Live]()
-| [Solution]()
+[Live](https://nathanraym.github.io/Results-summary-component-Frontend-Mentor/)
+| [Solution](https://github.com/NathanRayM/Results-summary-component-Frontend-Mentor.git)
 | [Challenge](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
 
 Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/)
